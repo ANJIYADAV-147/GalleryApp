@@ -1,0 +1,25 @@
+/* Write your code here. */
+.gallery-container {
+  display: flex;
+  flex-direction: column;
+  padding: 30px;
+}
+
+.galleryImg {
+  height: 400px;
+  width: 700px;
+}
+.heading {
+  color: #1e293b;
+  font-size: 25px;
+}
+.des {
+  color: #64748b;
+  font-size: 18px;
+}
+.images {
+  display: flex;
+  flex-direction: row;
+  background-color: #ffffff;
+  padding: 0px;
+}

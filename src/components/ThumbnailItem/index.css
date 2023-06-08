@@ -1,0 +1,22 @@
+/* Write your code here. */
+.thumbnail-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.thumbnailImg {
+  width: 80px;
+  height: 80px;
+}
+.imgBtn {
+  border: 0px;
+}
+
+.active {
+  opacity: 0.5;
+}
